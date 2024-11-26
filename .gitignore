@@ -1,2 +1,4 @@
 .venv
 submission_super.csv
+headlines.csv
+*.npy
